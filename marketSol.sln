@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Presentation", "MarketPresentation\Market.Presentation.csproj", "{532FA9BE-37CB-4C29-B40A-69A0F18B2CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.DataAcess", "MarketDataAcess\Market.DataAcess.csproj", "{BEEA508A-D1E8-4F18-9045-F04B276C75DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Business", "MarketBusiness\Market.Business.csproj", "{05E83B8F-552D-4213-A43F-AF7EA7B0B7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532FA9BE-37CB-4C29-B40A-69A0F18B2CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532FA9BE-37CB-4C29-B40A-69A0F18B2CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532FA9BE-37CB-4C29-B40A-69A0F18B2CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532FA9BE-37CB-4C29-B40A-69A0F18B2CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEA508A-D1E8-4F18-9045-F04B276C75DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEA508A-D1E8-4F18-9045-F04B276C75DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEA508A-D1E8-4F18-9045-F04B276C75DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEA508A-D1E8-4F18-9045-F04B276C75DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E83B8F-552D-4213-A43F-AF7EA7B0B7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E83B8F-552D-4213-A43F-AF7EA7B0B7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E83B8F-552D-4213-A43F-AF7EA7B0B7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E83B8F-552D-4213-A43F-AF7EA7B0B7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

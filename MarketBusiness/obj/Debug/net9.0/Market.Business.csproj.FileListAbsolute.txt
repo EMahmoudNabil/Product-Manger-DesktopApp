@@ -1,0 +1,15 @@
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\bin\Debug\net9.0\Market.Business.deps.json
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\bin\Debug\net9.0\Market.Business.dll
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\bin\Debug\net9.0\Market.Business.pdb
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\bin\Debug\net9.0\Market.DataAcess.dll
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\bin\Debug\net9.0\Market.DataAcess.pdb
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.csproj.AssemblyReference.cache
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.AssemblyInfoInputs.cache
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.AssemblyInfo.cs
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.csproj.CoreCompileInputs.cache
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.B.46B368A8.Up2Date
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.dll
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\refint\Market.Business.dll
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\Market.Business.pdb
+E:\ITI\Material\ADO.Net\project\marketSol\MarketBusiness\obj\Debug\net9.0\ref\Market.Business.dll
